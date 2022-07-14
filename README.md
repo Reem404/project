@@ -1,2 +1,2 @@
 # project
-task1
+This is my TASK1; it includes tow tasks. one for Voice to text other steps to setup ESP32 in computer....
